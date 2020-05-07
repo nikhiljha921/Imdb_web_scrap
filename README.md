@@ -1,4 +1,4 @@
-# Intern_Assignment_Imdb_web_scrap
+#Imdb_web_scrap
 
 Script is tested with python2.7
 
